@@ -1,0 +1,2470 @@
+cuisine_description,violation_code,count,rank
+Thai,10F,135,1
+Thai,08A,105,2
+Thai,02G,88,3
+Thai,04L,63,4
+Thai,02B,59,5
+Thai,06C,53,6
+Thai,06D,47,7
+Thai,10B,42,8
+Thai,04M,37,9
+Thai,08C,28,10
+Thai,04N,28,10
+Thai,09B,24,12
+Thai,10H,20,13
+Thai,04K,19,14
+Thai,10G,18,15
+Thai,06A,15,16
+Thai,06E,15,16
+Thai,06F,15,16
+Thai,04A,15,16
+Thai,04H,14,20
+Thai,09C,12,21
+Thai,02H,9,22
+Thai,05D,8,23
+Thai,10D,8,23
+Thai,03A,5,25
+Thai,09A,5,25
+Thai,06B,5,25
+Thai,04J,4,28
+Thai,10A,4,28
+Thai,03B,3,30
+Thai,10E,3,30
+Thai,02I,2,32
+Thai,04C,2,32
+Thai,28-06,1,34
+Thai,09E,1,34
+Thai,02A,1,34
+Thai,10I,1,34
+Thai,02C,1,34
+Thai,05F,1,34
+Thai,06G,1,34
+Thai,08B,1,34
+Thai,03C,1,34
+Thai,,1,34
+Thai,09D,1,34
+Cajun,08A,4,1
+Cajun,04L,3,2
+Cajun,10F,3,2
+Cajun,06C,2,4
+Cajun,04N,2,4
+Cajun,10B,2,4
+Cajun,10G,2,4
+Cajun,04M,2,4
+Cajun,05B,1,9
+Cajun,10D,1,9
+Cajun,10A,1,9
+Cajun,06B,1,9
+Cajun,02G,1,9
+Cajun,06D,1,9
+Czech,06C,2,1
+Czech,06F,1,2
+Czech,02H,1,2
+Czech,06D,1,2
+Greek,10F,51,1
+Greek,08A,34,2
+Greek,10B,28,3
+Greek,06C,27,4
+Greek,02G,21,5
+Greek,04N,20,6
+Greek,06D,20,6
+Greek,04L,19,8
+Greek,02B,14,9
+Greek,08C,10,10
+Greek,10G,9,11
+Greek,09C,8,12
+Greek,10H,6,13
+Greek,04A,6,13
+Greek,06E,6,13
+Greek,04M,6,13
+Greek,06F,5,17
+Greek,08B,4,18
+Greek,06A,4,18
+Greek,02H,4,18
+Greek,09B,4,18
+Greek,02A,2,22
+Greek,02C,2,22
+Greek,04C,2,22
+Greek,06B,2,22
+Greek,05F,2,22
+Greek,10E,2,22
+Greek,05D,2,22
+Greek,,1,29
+Greek,03B,1,29
+Greek,04H,1,29
+Greek,10A,1,29
+Greek,04O,1,29
+Greek,06G,1,29
+Greek,09A,1,29
+Greek,04K,1,29
+Greek,02I,1,29
+Irish,10F,74,1
+Irish,06D,62,2
+Irish,08A,43,3
+Irish,04L,30,4
+Irish,10B,27,5
+Irish,04H,27,5
+Irish,04N,19,7
+Irish,06C,15,8
+Irish,02G,14,9
+Irish,08C,13,10
+Irish,02B,11,11
+Irish,04A,8,12
+Irish,10G,7,13
+Irish,06E,7,13
+Irish,06F,7,13
+Irish,09C,6,16
+Irish,10H,6,16
+Irish,04K,5,18
+Irish,05D,5,18
+Irish,04M,4,20
+Irish,02H,2,21
+Irish,04C,2,21
+Irish,10E,2,21
+Irish,04J,2,21
+Irish,10D,2,21
+Irish,09E,1,26
+Irish,06A,1,26
+Irish,10A,1,26
+Irish,04B,1,26
+Irish,09A,1,26
+Irish,28-06,1,26
+Irish,02F,1,26
+Other,10F,186,1
+Other,10B,84,2
+Other,08A,78,3
+Other,06D,66,4
+Other,06C,51,5
+Other,04A,45,6
+Other,04N,41,7
+Other,02B,38,8
+Other,02G,37,9
+Other,04L,32,10
+Other,10G,29,11
+Other,10H,26,12
+Other,06A,22,13
+Other,10E,19,14
+Other,06E,18,15
+Other,05D,17,16
+Other,06F,14,17
+Other,09C,14,17
+Other,08C,13,19
+Other,04J,13,19
+Other,10A,12,21
+Other,04K,9,22
+Other,,7,23
+Other,09E,7,23
+Other,04H,7,23
+Other,04M,7,23
+Other,10D,6,27
+Other,08B,5,28
+Other,02H,4,29
+Other,09B,3,30
+Other,03A,3,30
+Other,03E,2,32
+Other,04C,2,32
+Other,05H,2,32
+Other,09A,2,32
+Other,03I,1,36
+Other,10I,1,36
+Other,05E,1,36
+Other,10J,1,36
+Other,04O,1,36
+Other,05B,1,36
+Other,28-06,1,36
+Pizza,10F,749,1
+Pizza,08A,394,2
+Pizza,02B,339,3
+Pizza,04L,276,4
+Pizza,10B,243,5
+Pizza,02G,219,6
+Pizza,06C,188,7
+Pizza,06D,178,8
+Pizza,04N,128,9
+Pizza,04A,112,10
+Pizza,08C,90,11
+Pizza,04M,78,12
+Pizza,06A,67,13
+Pizza,10H,60,14
+Pizza,10G,57,15
+Pizza,06F,49,16
+Pizza,09C,48,17
+Pizza,10E,43,18
+Pizza,02H,38,19
+Pizza,05D,37,20
+Pizza,09B,31,21
+Pizza,06E,26,22
+Pizza,04H,26,22
+Pizza,10D,25,24
+Pizza,09A,24,25
+Pizza,04K,23,26
+Pizza,09E,19,27
+Pizza,04J,17,28
+Pizza,08B,13,29
+Pizza,,12,30
+Pizza,06B,12,30
+Pizza,10A,11,32
+Pizza,04C,10,33
+Pizza,05H,8,34
+Pizza,10I,6,35
+Pizza,10C,5,36
+Pizza,28-06,5,36
+Pizza,04O,4,38
+Pizza,04E,4,38
+Pizza,10J,4,38
+Pizza,02I,3,41
+Pizza,03A,2,42
+Pizza,05E,1,43
+Pizza,03D,1,43
+Pizza,05F,1,43
+Pizza,02C,1,43
+Soups,04L,2,1
+Soups,02H,2,1
+Soups,08A,2,1
+Soups,28-05,1,4
+Soups,06A,1,4
+Soups,04O,1,4
+Soups,02B,1,4
+Soups,10G,1,4
+Soups,08C,1,4
+Soups,10B,1,4
+Soups,10F,1,4
+Soups,09C,1,4
+Tapas,10F,14,1
+Tapas,06D,10,2
+Tapas,06C,10,2
+Tapas,08A,9,4
+Tapas,10B,6,5
+Tapas,04L,5,6
+Tapas,10G,4,7
+Tapas,04H,4,7
+Tapas,06E,3,9
+Tapas,04N,3,9
+Tapas,10D,3,9
+Tapas,04A,2,12
+Tapas,06F,2,12
+Tapas,04K,2,12
+Tapas,09C,2,12
+Tapas,05D,2,12
+Tapas,02B,2,12
+Tapas,10A,1,18
+Tapas,04J,1,18
+Tapas,06B,1,18
+Tapas,08C,1,18
+Tapas,04M,1,18
+Tapas,10H,1,18
+Tapas,04C,1,18
+Tapas,09B,1,18
+Tapas,06A,1,18
+Vegan,10F,31,1
+Vegan,08A,17,2
+Vegan,02B,12,3
+Vegan,06C,12,3
+Vegan,04L,10,5
+Vegan,04N,7,6
+Vegan,10B,7,6
+Vegan,09C,7,6
+Vegan,06F,6,9
+Vegan,06D,5,10
+Vegan,02G,5,10
+Vegan,04K,4,12
+Vegan,06A,4,12
+Vegan,10H,3,14
+Vegan,10G,3,14
+Vegan,06E,3,14
+Vegan,03A,3,14
+Vegan,08C,3,14
+Vegan,04H,3,14
+Vegan,04A,3,14
+Vegan,28-05,2,21
+Vegan,02H,2,21
+Vegan,06B,2,21
+Vegan,04M,1,24
+Vegan,04C,1,24
+Vegan,05D,1,24
+Vegan,10A,1,24
+Vegan,09A,1,24
+Vegan,10E,1,24
+Vegan,09E,1,24
+Vegan,04J,1,24
+Vegan,05H,1,24
+Afghan,08A,10,1
+Afghan,04L,6,2
+Afghan,10F,6,2
+Afghan,04N,5,4
+Afghan,04A,4,5
+Afghan,02G,4,5
+Afghan,10B,3,7
+Afghan,08C,2,8
+Afghan,06C,2,8
+Afghan,06E,1,10
+Afghan,09B,1,10
+Afghan,04M,1,10
+Afghan,09E,1,10
+Afghan,02H,1,10
+Afghan,06F,1,10
+Afghan,06B,1,10
+Afghan,06A,1,10
+Afghan,10E,1,10
+Afghan,28-05,1,10
+Afghan,10G,1,10
+Afghan,10D,1,10
+Afghan,09C,1,10
+Basque,02G,1,1
+Basque,10F,1,1
+Creole,08A,12,1
+Creole,10F,11,2
+Creole,04A,8,3
+Creole,06C,8,3
+Creole,04L,6,5
+Creole,04N,5,6
+Creole,02B,5,6
+Creole,04H,3,8
+Creole,10B,3,8
+Creole,04M,2,10
+Creole,06D,2,10
+Creole,10H,2,10
+Creole,02H,2,10
+Creole,06A,1,14
+Creole,02C,1,14
+Creole,02G,1,14
+Creole,09E,1,14
+Creole,04J,1,14
+Donuts,10F,344,1
+Donuts,06D,126,2
+Donuts,08A,77,3
+Donuts,06C,75,4
+Donuts,10B,75,4
+Donuts,02G,49,6
+Donuts,04N,46,7
+Donuts,06E,45,8
+Donuts,04A,28,9
+Donuts,04L,26,10
+Donuts,10H,25,11
+Donuts,04H,20,12
+Donuts,06F,20,12
+Donuts,09C,18,14
+Donuts,10E,16,15
+Donuts,06A,15,16
+Donuts,08C,12,17
+Donuts,04M,10,18
+Donuts,,9,19
+Donuts,10A,8,20
+Donuts,04K,6,21
+Donuts,10G,6,21
+Donuts,10D,6,21
+Donuts,04O,5,24
+Donuts,02B,5,24
+Donuts,09E,4,26
+Donuts,08B,4,26
+Donuts,04C,3,28
+Donuts,09B,3,28
+Donuts,05D,3,28
+Donuts,10C,2,31
+Donuts,06B,2,31
+Donuts,10J,1,33
+French,10F,109,1
+French,08A,69,2
+French,06D,53,3
+French,06C,43,4
+French,04L,42,5
+French,04N,41,6
+French,10B,40,7
+French,02G,39,8
+French,02B,21,9
+French,09C,18,10
+French,06A,18,10
+French,06E,17,12
+French,10G,16,13
+French,04H,16,13
+French,08C,10,15
+French,10H,10,15
+French,06F,10,15
+French,04C,9,18
+French,05D,9,18
+French,02H,8,20
+French,04A,7,21
+French,04K,6,22
+French,04M,6,22
+French,06B,5,24
+French,02A,4,25
+French,09E,3,26
+French,09B,3,26
+French,02F,2,28
+French,10J,2,28
+French,28-06,2,28
+French,10D,2,28
+French,05F,1,32
+French,04J,1,32
+French,09A,1,32
+French,28-05,1,32
+French,04O,1,32
+French,03F,1,32
+French,02I,1,32
+French,10E,1,32
+Fusion,10F,18,1
+Fusion,08A,11,2
+Fusion,06D,9,3
+Fusion,02G,8,4
+Fusion,04N,7,5
+Fusion,02B,7,5
+Fusion,10B,6,7
+Fusion,04L,5,8
+Fusion,10H,4,9
+Fusion,06C,4,9
+Fusion,06E,3,11
+Fusion,10G,3,11
+Fusion,08C,3,11
+Fusion,04A,2,14
+Fusion,06A,2,14
+Fusion,03B,1,16
+Fusion,10E,1,16
+Fusion,02H,1,16
+Fusion,28-05,1,16
+Fusion,28-06,1,16
+Fusion,04J,1,16
+Fusion,09B,1,16
+Fusion,10A,1,16
+Fusion,04H,1,16
+Fusion,06B,1,16
+Fusion,09E,1,16
+Fusion,10D,1,16
+German,10F,16,1
+German,08A,7,2
+German,06C,5,3
+German,06D,4,4
+German,04N,4,4
+German,10B,4,4
+German,04L,3,7
+German,02G,3,7
+German,04A,2,9
+German,09C,2,9
+German,04J,1,11
+German,09A,1,11
+German,10A,1,11
+German,10G,1,11
+German,06F,1,11
+German,09B,1,11
+German,10I,1,11
+German,06E,1,11
+German,09E,1,11
+German,10H,1,11
+German,06B,1,11
+German,02B,1,11
+German,,1,11
+Indian,10F,124,1
+Indian,08A,103,2
+Indian,04L,63,3
+Indian,02G,57,4
+Indian,10B,51,5
+Indian,06C,47,6
+Indian,02B,44,7
+Indian,04M,37,8
+Indian,06D,26,9
+Indian,04N,25,10
+Indian,04A,24,11
+Indian,08C,24,11
+Indian,09C,21,13
+Indian,06A,19,14
+Indian,10G,16,15
+Indian,06E,15,16
+Indian,02H,14,17
+Indian,04K,13,18
+Indian,06F,12,19
+Indian,04C,11,20
+Indian,04H,11,20
+Indian,10H,10,22
+Indian,05D,9,23
+Indian,10E,6,24
+Indian,06B,6,24
+Indian,09B,6,24
+Indian,10A,5,27
+Indian,03A,4,28
+Indian,04J,3,29
+Indian,28-05,3,29
+Indian,09E,3,29
+Indian,28-06,2,32
+Indian,10I,2,32
+Indian,05F,2,32
+Indian,04E,1,35
+Indian,04F,1,35
+Indian,10J,1,35
+Indian,05H,1,35
+Indian,10D,1,35
+Indian,04D,1,35
+Indian,,1,35
+Indian,10C,1,35
+Indian,09A,1,35
+Korean,10F,138,1
+Korean,06D,70,2
+Korean,08A,66,3
+Korean,06C,64,4
+Korean,10B,60,5
+Korean,02B,51,6
+Korean,02G,48,7
+Korean,04L,42,8
+Korean,06E,37,9
+Korean,08C,25,10
+Korean,04N,23,11
+Korean,05D,22,12
+Korean,06A,20,13
+Korean,09B,20,13
+Korean,10G,17,15
+Korean,10H,16,16
+Korean,04M,14,17
+Korean,04A,14,17
+Korean,09C,14,17
+Korean,06F,12,20
+Korean,04H,11,21
+Korean,03A,7,22
+Korean,06B,6,23
+Korean,10E,6,23
+Korean,09E,6,23
+Korean,04C,5,26
+Korean,10D,5,26
+Korean,04K,4,28
+Korean,04J,4,28
+Korean,02H,3,30
+Korean,28-06,3,30
+Korean,09A,3,30
+Korean,03B,2,33
+Korean,10C,2,33
+Korean,10A,2,33
+Korean,10I,2,33
+Korean,04E,2,33
+Korean,10J,1,38
+Korean,02C,1,38
+Korean,,1,38
+Korean,02A,1,38
+Korean,08B,1,38
+Korean,05H,1,38
+Korean,03C,1,38
+Korean,05B,1,38
+Korean,28-05,1,38
+Korean,05A,1,38
+Korean,04D,1,38
+Korean,02I,1,38
+Polish,10F,10,1
+Polish,08A,8,2
+Polish,04L,6,3
+Polish,06C,5,4
+Polish,06D,4,5
+Polish,10B,2,6
+Polish,08C,2,6
+Polish,02G,2,6
+Polish,04K,2,6
+Polish,02B,2,6
+Polish,06A,2,6
+Polish,06B,1,12
+Polish,09A,1,12
+Polish,06E,1,12
+Polish,05D,1,12
+Polish,10H,1,12
+Polish,04N,1,12
+Salads,10F,55,1
+Salads,10B,21,2
+Salads,02G,16,3
+Salads,02B,14,4
+Salads,04N,14,4
+Salads,08A,13,6
+Salads,06D,10,7
+Salads,06C,9,8
+Salads,09C,7,9
+Salads,06E,7,9
+Salads,10H,5,11
+Salads,08B,4,12
+Salads,04L,3,13
+Salads,10G,3,13
+Salads,06A,3,13
+Salads,10E,2,16
+Salads,06F,2,16
+Salads,10D,2,16
+Salads,04A,2,16
+Salads,04H,2,16
+Salads,05D,2,16
+Salads,08C,1,22
+Salads,09B,1,22
+Salads,04C,1,22
+Salads,02C,1,22
+Salads,02H,1,22
+Salads,09E,1,22
+African,10F,28,1
+African,08A,28,1
+African,02B,21,3
+African,04L,19,4
+African,04A,13,5
+African,06C,12,6
+African,10B,10,7
+African,04N,9,8
+African,02G,8,9
+African,04M,8,9
+African,10G,7,11
+African,04K,5,12
+African,02H,5,12
+African,09B,5,12
+African,08C,5,12
+African,06A,4,16
+African,06D,4,16
+African,04O,2,18
+African,03I,2,18
+African,09C,2,18
+African,10D,2,18
+African,,2,18
+African,10H,2,18
+African,03C,1,24
+African,09A,1,24
+African,04H,1,24
+African,28-05,1,24
+African,06F,1,24
+African,10C,1,24
+African,05D,1,24
+African,10E,1,24
+Chicken,10F,359,1
+Chicken,08A,182,2
+Chicken,10B,122,3
+Chicken,04L,104,4
+Chicken,02B,80,5
+Chicken,06C,78,6
+Chicken,06D,78,6
+Chicken,04N,78,6
+Chicken,04A,70,9
+Chicken,02G,68,10
+Chicken,08C,46,11
+Chicken,06A,38,12
+Chicken,06E,29,13
+Chicken,10G,25,14
+Chicken,10H,21,15
+Chicken,09C,21,15
+Chicken,04M,19,17
+Chicken,04K,19,17
+Chicken,06F,18,19
+Chicken,04H,18,19
+Chicken,10E,17,21
+Chicken,05D,17,21
+Chicken,09B,16,23
+Chicken,10D,14,24
+Chicken,02H,12,25
+Chicken,10A,8,26
+Chicken,08B,7,27
+Chicken,,5,28
+Chicken,02C,5,28
+Chicken,06B,5,28
+Chicken,28-06,4,31
+Chicken,04C,3,32
+Chicken,03A,3,32
+Chicken,09A,3,32
+Chicken,04J,3,32
+Chicken,09E,3,32
+Chicken,02I,2,37
+Chicken,05B,1,38
+Chicken,05E,1,38
+Chicken,05F,1,38
+Chicken,10C,1,38
+Chicken,03I,1,38
+Chicken,04E,1,38
+Chicken,05H,1,38
+Chilean,06C,2,1
+Chilean,10H,1,2
+Chilean,06B,1,2
+Chilean,04J,1,2
+Chilean,10F,1,2
+Chilean,08A,1,2
+Chilean,04L,1,2
+Chinese,10F,1064,1
+Chinese,08A,576,2
+Chinese,02B,450,3
+Chinese,06C,442,4
+Chinese,04L,437,5
+Chinese,02G,411,6
+Chinese,10B,282,7
+Chinese,06D,275,8
+Chinese,09C,146,9
+Chinese,04N,138,10
+Chinese,04M,138,10
+Chinese,06A,131,12
+Chinese,09B,126,13
+Chinese,08C,118,14
+Chinese,06F,104,15
+Chinese,06E,90,16
+Chinese,10H,77,17
+Chinese,04K,71,18
+Chinese,04H,52,19
+Chinese,04A,51,20
+Chinese,05D,51,20
+Chinese,02H,50,22
+Chinese,10D,50,22
+Chinese,10G,46,24
+Chinese,06B,39,25
+Chinese,10E,38,26
+Chinese,28-06,29,27
+Chinese,09A,27,28
+Chinese,03A,20,29
+Chinese,10I,18,30
+Chinese,05H,17,31
+Chinese,04J,16,32
+Chinese,10A,13,33
+Chinese,09E,12,34
+Chinese,08B,11,35
+Chinese,28-05,11,35
+Chinese,,10,37
+Chinese,05F,9,38
+Chinese,04O,9,38
+Chinese,02I,9,38
+Chinese,04C,7,41
+Chinese,02A,6,42
+Chinese,03B,5,43
+Chinese,04D,5,43
+Chinese,02C,4,45
+Chinese,04E,4,45
+Chinese,05C,4,45
+Chinese,10C,3,48
+Chinese,05A,3,48
+Chinese,09D,3,48
+Chinese,06G,3,48
+Chinese,10J,2,52
+Chinese,05B,2,52
+Chinese,05E,1,54
+Chinese,04F,1,54
+Chinese,03I,1,54
+Chinese,03C,1,54
+Chinese,04B,1,54
+Chinese,28-07,1,54
+Chinese,03E,1,54
+English,04L,5,1
+English,08A,5,1
+English,02G,3,3
+English,10F,3,3
+English,06D,3,3
+English,10B,2,6
+English,04H,2,6
+English,10H,2,6
+English,09B,1,9
+English,06A,1,9
+English,28-06,1,9
+English,08C,1,9
+English,04K,1,9
+English,06C,1,9
+Hotdogs,10F,13,1
+Hotdogs,06D,6,2
+Hotdogs,,6,2
+Hotdogs,10B,5,4
+Hotdogs,08A,4,5
+Hotdogs,02G,4,5
+Hotdogs,04A,3,7
+Hotdogs,05D,3,7
+Hotdogs,06C,3,7
+Hotdogs,10H,3,7
+Hotdogs,04N,2,11
+Hotdogs,02B,2,11
+Hotdogs,04L,2,11
+Hotdogs,10G,1,14
+Hotdogs,06A,1,14
+Hotdogs,04H,1,14
+Hotdogs,04J,1,14
+Hotdogs,04K,1,14
+Hotdogs,06E,1,14
+Hotdogs,10D,1,14
+Hotdogs,08B,1,14
+Hotdogs,09B,1,14
+Hotdogs,09A,1,14
+Iranian,10B,1,1
+Iranian,10F,1,1
+Iranian,09C,1,1
+Iranian,06D,1,1
+Italian,10F,389,1
+Italian,08A,236,2
+Italian,06D,204,3
+Italian,04L,144,4
+Italian,06C,139,5
+Italian,10B,130,6
+Italian,02G,128,7
+Italian,04N,106,8
+Italian,02B,80,9
+Italian,09C,50,10
+Italian,04H,48,11
+Italian,08C,46,12
+Italian,06E,45,13
+Italian,04M,40,14
+Italian,10H,38,15
+Italian,10G,36,16
+Italian,06F,34,17
+Italian,06A,32,18
+Italian,04A,29,19
+Italian,09B,27,20
+Italian,02H,22,21
+Italian,05D,21,22
+Italian,04C,20,23
+Italian,04K,19,24
+Italian,10E,16,25
+Italian,06B,15,26
+Italian,04J,10,27
+Italian,09E,9,28
+Italian,10I,9,28
+Italian,10D,8,30
+Italian,10A,6,31
+Italian,08B,6,31
+Italian,09A,6,31
+Italian,,3,34
+Italian,10J,3,34
+Italian,05F,2,36
+Italian,28-06,2,36
+Italian,02C,2,36
+Italian,03A,2,36
+Italian,05A,2,36
+Italian,06H,2,36
+Italian,04O,1,42
+Italian,02I,1,42
+Italian,05C,1,42
+Italian,10C,1,42
+Italian,02A,1,42
+Italian,05H,1,42
+Italian,04F,1,42
+Italian,03B,1,42
+Italian,04E,1,42
+Italian,06I,1,42
+Italian,28-05,1,42
+Mexican,10F,429,1
+Mexican,08A,256,2
+Mexican,10B,156,3
+Mexican,06D,147,4
+Mexican,04L,131,5
+Mexican,06C,127,6
+Mexican,02G,124,7
+Mexican,02B,107,8
+Mexican,04N,102,9
+Mexican,04A,66,10
+Mexican,09C,62,11
+Mexican,04M,60,12
+Mexican,04H,55,13
+Mexican,08C,51,14
+Mexican,10G,51,14
+Mexican,06F,50,16
+Mexican,02H,42,17
+Mexican,06E,38,18
+Mexican,06A,35,19
+Mexican,05D,33,20
+Mexican,10H,29,21
+Mexican,09B,28,22
+Mexican,04K,20,23
+Mexican,10E,19,24
+Mexican,04J,15,25
+Mexican,04C,15,25
+Mexican,10D,14,27
+Mexican,09E,12,28
+Mexican,06B,11,29
+Mexican,10A,11,29
+Mexican,08B,10,31
+Mexican,28-06,10,31
+Mexican,09A,5,33
+Mexican,,5,33
+Mexican,05F,5,33
+Mexican,02C,4,36
+Mexican,10I,4,36
+Mexican,10J,3,38
+Mexican,03A,3,38
+Mexican,04E,2,40
+Mexican,05H,2,40
+Mexican,04F,2,40
+Mexican,05C,1,43
+Mexican,10C,1,43
+Mexican,05E,1,43
+Mexican,18-11,1,43
+Mexican,02I,1,43
+Mexican,28-07,1,43
+Mexican,03B,1,43
+Mexican,02A,1,43
+Russian,08A,25,1
+Russian,10F,24,2
+Russian,04L,10,3
+Russian,06C,8,4
+Russian,10B,8,4
+Russian,04N,7,6
+Russian,04M,7,6
+Russian,06D,6,8
+Russian,04A,6,8
+Russian,02G,6,8
+Russian,02B,6,8
+Russian,10G,5,12
+Russian,04K,4,13
+Russian,10H,4,13
+Russian,09C,3,15
+Russian,06A,3,15
+Russian,08C,3,15
+Russian,05D,2,18
+Russian,06E,2,18
+Russian,10C,1,20
+Russian,,1,20
+Russian,28-06,1,20
+Russian,04H,1,20
+Russian,06F,1,20
+Russian,04C,1,20
+Russian,02H,1,20
+Seafood,10F,106,1
+Seafood,08A,74,2
+Seafood,04L,45,3
+Seafood,10B,37,4
+Seafood,06D,34,5
+Seafood,02G,33,6
+Seafood,02B,32,7
+Seafood,04N,31,8
+Seafood,06C,28,9
+Seafood,10G,17,10
+Seafood,06E,16,11
+Seafood,04A,14,12
+Seafood,08C,14,12
+Seafood,06F,11,14
+Seafood,04M,11,14
+Seafood,09B,11,14
+Seafood,04H,10,17
+Seafood,09C,10,17
+Seafood,10H,7,19
+Seafood,04K,7,19
+Seafood,05D,7,19
+Seafood,06A,5,22
+Seafood,09A,4,23
+Seafood,06B,3,24
+Seafood,10D,3,24
+Seafood,02H,3,24
+Seafood,09E,3,24
+Seafood,10E,3,24
+Seafood,,2,29
+Seafood,08B,2,29
+Seafood,04J,2,29
+Seafood,10I,2,29
+Seafood,04E,2,29
+Seafood,02F,1,34
+Seafood,03A,1,34
+Seafood,10A,1,34
+Seafood,02C,1,34
+Seafood,05H,1,34
+Seafood,04O,1,34
+Seafood,03B,1,34
+Seafood,05F,1,34
+Seafood,10J,1,34
+Spanish,10F,274,1
+Spanish,08A,156,2
+Spanish,02B,124,3
+Spanish,10B,101,4
+Spanish,06D,91,5
+Spanish,04L,89,6
+Spanish,06C,83,7
+Spanish,02G,75,8
+Spanish,04A,53,9
+Spanish,04N,50,10
+Spanish,04H,38,11
+Spanish,09C,32,12
+Spanish,04M,31,13
+Spanish,08C,27,14
+Spanish,06A,26,15
+Spanish,06F,24,16
+Spanish,10G,24,16
+Spanish,10H,23,18
+Spanish,09B,21,19
+Spanish,06E,20,20
+Spanish,04K,20,20
+Spanish,10D,16,22
+Spanish,02H,15,23
+Spanish,10E,14,24
+Spanish,10A,12,25
+Spanish,05D,12,25
+Spanish,04J,11,27
+Spanish,04C,8,28
+Spanish,09E,6,29
+Spanish,06B,6,29
+Spanish,09A,6,29
+Spanish,05H,5,32
+Spanish,05F,4,33
+Spanish,,4,33
+Spanish,04O,3,35
+Spanish,10J,3,35
+Spanish,08B,3,35
+Spanish,03B,2,38
+Spanish,03A,2,38
+Spanish,05A,2,38
+Spanish,04F,2,38
+Spanish,02I,1,42
+Spanish,05C,1,42
+Spanish,10I,1,42
+Spanish,28-07,1,42
+Spanish,04E,1,42
+Tex-Mex,10F,190,1
+Tex-Mex,10B,69,2
+Tex-Mex,08A,69,2
+Tex-Mex,06D,57,4
+Tex-Mex,04N,37,5
+Tex-Mex,04L,36,6
+Tex-Mex,06C,35,7
+Tex-Mex,02B,34,8
+Tex-Mex,02G,32,9
+Tex-Mex,09C,28,10
+Tex-Mex,04A,18,11
+Tex-Mex,06A,16,12
+Tex-Mex,10H,14,13
+Tex-Mex,08C,14,13
+Tex-Mex,06F,13,15
+Tex-Mex,10G,11,16
+Tex-Mex,02H,11,16
+Tex-Mex,04M,10,18
+Tex-Mex,06E,8,19
+Tex-Mex,10E,7,20
+Tex-Mex,09B,7,20
+Tex-Mex,04H,7,20
+Tex-Mex,10D,4,23
+Tex-Mex,05D,4,23
+Tex-Mex,04C,3,25
+Tex-Mex,08B,3,25
+Tex-Mex,09E,2,27
+Tex-Mex,,2,27
+Tex-Mex,10I,2,27
+Tex-Mex,06B,1,30
+Tex-Mex,10A,1,30
+Tex-Mex,04J,1,30
+Tex-Mex,03A,1,30
+Tex-Mex,04K,1,30
+Tex-Mex,28-06,1,30
+Tex-Mex,02I,1,30
+Tex-Mex,05C,1,30
+Turkish,10F,26,1
+Turkish,08A,19,2
+Turkish,10B,15,3
+Turkish,06C,13,4
+Turkish,04L,12,5
+Turkish,06D,9,6
+Turkish,04M,7,7
+Turkish,08C,6,8
+Turkish,02B,6,8
+Turkish,06A,4,10
+Turkish,02H,4,10
+Turkish,02G,4,10
+Turkish,04N,4,10
+Turkish,04A,4,10
+Turkish,09C,3,15
+Turkish,10G,3,15
+Turkish,09B,3,15
+Turkish,10D,3,15
+Turkish,04K,2,19
+Turkish,06B,2,19
+Turkish,04H,2,19
+Turkish,28-05,1,22
+Turkish,06F,1,22
+Turkish,03A,1,22
+Turkish,04E,1,22
+Turkish,04F,1,22
+Turkish,10H,1,22
+Turkish,05D,1,22
+Turkish,10I,1,22
+Turkish,10C,1,22
+Turkish,02A,1,22
+Turkish,,1,22
+Turkish,04J,1,22
+American,10F,2149,1
+American,06D,1136,2
+American,08A,1012,3
+American,10B,752,4
+American,06C,550,5
+American,04L,549,6
+American,02G,517,7
+American,04N,506,8
+American,02B,368,9
+American,04H,284,10
+American,04A,247,11
+American,10G,238,12
+American,10H,217,13
+American,09C,216,14
+American,06E,208,15
+American,08C,208,15
+American,06A,167,17
+American,06F,147,18
+American,05D,113,19
+American,04M,112,20
+American,02H,88,21
+American,10E,83,22
+American,04K,81,23
+American,09B,77,24
+American,04C,77,24
+American,10D,68,26
+American,,64,27
+American,09E,57,28
+American,04J,56,29
+American,10A,52,30
+American,08B,42,31
+American,06B,30,32
+American,10I,29,33
+American,09A,26,34
+American,10J,23,35
+American,28-06,17,36
+American,04O,13,37
+American,03A,11,38
+American,02I,9,39
+American,05F,8,40
+American,02C,8,40
+American,02A,6,42
+American,05C,6,42
+American,05H,6,42
+American,04E,5,45
+American,10C,5,45
+American,03C,5,45
+American,28-05,5,45
+American,05A,5,45
+American,03I,4,50
+American,06G,4,50
+American,03B,3,52
+American,05B,3,52
+American,04P,2,54
+American,04D,2,54
+American,02F,2,54
+American,02D,2,54
+American,05E,1,58
+American,04F,1,58
+American,22G,1,58
+American,03E,1,58
+Armenian,10F,3,1
+Armenian,08C,2,2
+Armenian,02G,1,3
+Armenian,04L,1,3
+Armenian,06C,1,3
+Armenian,08A,1,3
+Armenian,10B,1,3
+Barbecue,10F,27,1
+Barbecue,08A,22,2
+Barbecue,04L,15,3
+Barbecue,06C,14,4
+Barbecue,10B,14,4
+Barbecue,02G,12,6
+Barbecue,06D,12,6
+Barbecue,04N,9,8
+Barbecue,06A,5,9
+Barbecue,04H,5,9
+Barbecue,10H,4,11
+Barbecue,04A,4,11
+Barbecue,02B,4,11
+Barbecue,08C,3,14
+Barbecue,06F,3,14
+Barbecue,,3,14
+Barbecue,04M,3,14
+Barbecue,04K,3,14
+Barbecue,05D,3,14
+Barbecue,09E,2,20
+Barbecue,09B,2,20
+Barbecue,10E,2,20
+Barbecue,05C,2,20
+Barbecue,10A,1,24
+Barbecue,06E,1,24
+Barbecue,09A,1,24
+Barbecue,09C,1,24
+Barbecue,04E,1,24
+Barbecue,05F,1,24
+Barbecue,02H,1,24
+Barbecue,04J,1,24
+Barbecue,10G,1,24
+Barbecue,10D,1,24
+Egyptian,10F,5,1
+Egyptian,10B,4,2
+Egyptian,08A,3,3
+Egyptian,04L,3,3
+Egyptian,06C,3,3
+Egyptian,05D,2,6
+Egyptian,06D,2,6
+Egyptian,02B,1,8
+Egyptian,10H,1,8
+Egyptian,04K,1,8
+Egyptian,06E,1,8
+Egyptian,04C,1,8
+Egyptian,04A,1,8
+Egyptian,04N,1,8
+Filipino,10F,14,1
+Filipino,08A,10,2
+Filipino,06D,6,3
+Filipino,10G,6,3
+Filipino,10B,6,3
+Filipino,02B,5,6
+Filipino,02G,4,7
+Filipino,04M,4,7
+Filipino,04N,3,9
+Filipino,09C,3,9
+Filipino,04L,3,9
+Filipino,05D,2,12
+Filipino,06E,2,12
+Filipino,09E,2,12
+Filipino,06C,2,12
+Filipino,02H,1,16
+Filipino,04H,1,16
+Filipino,08C,1,16
+Filipino,09B,1,16
+Filipino,06A,1,16
+Filipino,03A,1,16
+Filipino,10J,1,16
+Filipino,02C,1,16
+Filipino,04K,1,16
+Hawaiian,10F,21,1
+Hawaiian,02G,8,2
+Hawaiian,06E,8,2
+Hawaiian,08A,6,4
+Hawaiian,06D,5,5
+Hawaiian,10B,5,5
+Hawaiian,02B,5,5
+Hawaiian,08C,3,8
+Hawaiian,04A,3,8
+Hawaiian,06C,3,8
+Hawaiian,10G,3,8
+Hawaiian,04N,3,8
+Hawaiian,09C,3,8
+Hawaiian,04L,3,8
+Hawaiian,06F,2,15
+Hawaiian,09B,2,15
+Hawaiian,10D,1,17
+Hawaiian,08B,1,17
+Hawaiian,05D,1,17
+Hawaiian,04H,1,17
+Hawaiian,04J,1,17
+Japanese,10F,368,1
+Japanese,08A,207,2
+Japanese,06D,178,3
+Japanese,02B,159,4
+Japanese,06C,144,5
+Japanese,04L,137,6
+Japanese,02G,132,7
+Japanese,10B,109,8
+Japanese,10G,62,9
+Japanese,04M,54,10
+Japanese,06E,51,11
+Japanese,06A,51,11
+Japanese,08C,49,13
+Japanese,04N,47,14
+Japanese,09C,43,15
+Japanese,10H,42,16
+Japanese,09B,38,17
+Japanese,06F,36,18
+Japanese,04H,34,19
+Japanese,04A,31,20
+Japanese,04K,24,21
+Japanese,10E,18,22
+Japanese,05D,16,23
+Japanese,02H,16,23
+Japanese,04C,14,25
+Japanese,04J,12,26
+Japanese,06B,9,27
+Japanese,10A,9,27
+Japanese,28-06,9,27
+Japanese,10D,9,27
+Japanese,08B,7,31
+Japanese,09E,7,31
+Japanese,10I,5,33
+Japanese,04E,4,34
+Japanese,,4,34
+Japanese,10C,4,34
+Japanese,03B,4,34
+Japanese,03A,3,38
+Japanese,02A,3,38
+Japanese,02F,3,38
+Japanese,02I,2,41
+Japanese,05C,2,41
+Japanese,28-05,2,41
+Japanese,04O,2,41
+Japanese,10J,2,41
+Japanese,05B,1,46
+Japanese,09D,1,46
+Japanese,05H,1,46
+Japanese,02C,1,46
+Lebanese,10F,4,1
+Lebanese,06C,2,2
+Lebanese,05D,1,3
+Lebanese,10B,1,3
+Lebanese,02G,1,3
+Lebanese,09C,1,3
+Lebanese,06F,1,3
+Moroccan,10F,6,1
+Moroccan,10B,3,2
+Moroccan,10G,3,2
+Moroccan,08A,2,4
+Moroccan,04N,2,4
+Moroccan,06D,2,4
+Moroccan,10H,1,7
+Moroccan,06C,1,7
+Moroccan,09A,1,7
+Moroccan,04C,1,7
+Moroccan,06E,1,7
+Peruvian,10F,33,1
+Peruvian,08A,29,2
+Peruvian,06D,18,3
+Peruvian,02B,17,4
+Peruvian,04L,16,5
+Peruvian,06C,16,5
+Peruvian,10B,12,7
+Peruvian,04N,12,7
+Peruvian,04M,11,9
+Peruvian,02G,10,10
+Peruvian,05D,7,11
+Peruvian,08C,7,11
+Peruvian,02H,7,11
+Peruvian,09C,6,14
+Peruvian,10G,6,14
+Peruvian,10H,6,14
+Peruvian,09B,6,14
+Peruvian,04A,6,14
+Peruvian,04H,5,19
+Peruvian,06A,4,20
+Peruvian,04K,4,20
+Peruvian,06F,3,22
+Peruvian,06B,3,22
+Peruvian,10E,3,22
+Peruvian,10D,3,22
+Peruvian,09E,2,26
+Peruvian,06E,2,26
+Peruvian,03B,1,28
+Peruvian,04C,1,28
+Peruvian,04J,1,28
+Peruvian,03A,1,28
+Peruvian,10I,1,28
+Brazilian,10F,10,1
+Brazilian,08A,5,2
+Brazilian,10B,5,2
+Brazilian,04N,4,4
+Brazilian,02B,4,4
+Brazilian,10H,4,4
+Brazilian,04A,3,7
+Brazilian,02G,3,7
+Brazilian,10G,3,7
+Brazilian,04L,2,10
+Brazilian,06E,2,10
+Brazilian,06C,2,10
+Brazilian,28-05,1,13
+Brazilian,10E,1,13
+Brazilian,09C,1,13
+Brazilian,04M,1,13
+Brazilian,06D,1,13
+Brazilian,06F,1,13
+Brazilian,02H,1,13
+Brazilian,09B,1,13
+Brazilian,04K,1,13
+Brazilian,06A,1,13
+Caribbean,10F,291,1
+Caribbean,08A,272,2
+Caribbean,02B,202,3
+Caribbean,04L,164,4
+Caribbean,10B,129,5
+Caribbean,04N,110,6
+Caribbean,06C,73,7
+Caribbean,04A,71,8
+Caribbean,02G,66,9
+Caribbean,09C,50,10
+Caribbean,04M,50,10
+Caribbean,06D,48,12
+Caribbean,08C,46,13
+Caribbean,10G,35,14
+Caribbean,04K,34,15
+Caribbean,02H,30,16
+Caribbean,06F,29,17
+Caribbean,06A,28,18
+Caribbean,06E,25,19
+Caribbean,09B,23,20
+Caribbean,10H,19,21
+Caribbean,10E,19,21
+Caribbean,10D,17,23
+Caribbean,04H,17,23
+Caribbean,05D,16,25
+Caribbean,04J,13,26
+Caribbean,10A,10,27
+Caribbean,28-05,8,28
+Caribbean,28-06,7,29
+Caribbean,09E,6,30
+Caribbean,10C,6,30
+Caribbean,03I,5,32
+Caribbean,08B,5,32
+Caribbean,06B,4,34
+Caribbean,09A,4,34
+Caribbean,03A,4,34
+Caribbean,,3,37
+Caribbean,05F,3,37
+Caribbean,05H,3,37
+Caribbean,02I,2,40
+Caribbean,04O,2,40
+Caribbean,04C,2,40
+Caribbean,02C,2,40
+Caribbean,10J,1,44
+Caribbean,09D,1,44
+Caribbean,02A,1,44
+Caribbean,10I,1,44
+Ethiopian,10F,10,1
+Ethiopian,08A,4,2
+Ethiopian,02B,3,3
+Ethiopian,04L,3,3
+Ethiopian,06D,3,3
+Ethiopian,09E,2,6
+Ethiopian,10B,2,6
+Ethiopian,06C,2,6
+Ethiopian,10A,2,6
+Ethiopian,02G,2,6
+Ethiopian,08C,1,11
+Ethiopian,10D,1,11
+Ethiopian,06A,1,11
+Ethiopian,10E,1,11
+Ethiopian,10G,1,11
+Ethiopian,06F,1,11
+Ethiopian,04M,1,11
+Pakistani,08A,14,1
+Pakistani,10F,13,2
+Pakistani,04L,11,3
+Pakistani,10B,7,4
+Pakistani,04N,5,5
+Pakistani,04A,5,5
+Pakistani,02H,4,7
+Pakistani,02B,4,7
+Pakistani,06C,2,9
+Pakistani,05D,2,9
+Pakistani,09C,2,9
+Pakistani,06F,2,9
+Pakistani,10H,2,9
+Pakistani,02G,2,9
+Pakistani,04E,2,9
+Pakistani,06A,2,9
+Pakistani,04C,1,17
+Pakistani,06E,1,17
+Pakistani,08C,1,17
+Pakistani,10G,1,17
+Pakistani,04H,1,17
+Pakistani,10D,1,17
+Soul Food,10F,25,1
+Soul Food,08A,18,2
+Soul Food,06D,12,3
+Soul Food,04N,10,4
+Soul Food,10B,10,4
+Soul Food,04L,9,6
+Soul Food,02B,9,6
+Soul Food,08C,8,8
+Soul Food,02G,6,9
+Soul Food,10D,5,10
+Soul Food,06C,5,10
+Soul Food,06A,4,12
+Soul Food,04A,4,12
+Soul Food,10G,3,14
+Soul Food,06E,3,14
+Soul Food,09C,3,14
+Soul Food,02H,2,17
+Soul Food,09B,2,17
+Soul Food,10E,2,17
+Soul Food,04K,2,17
+Soul Food,05H,1,21
+Soul Food,10H,1,21
+Soul Food,08B,1,21
+Soul Food,02I,1,21
+Soul Food,06F,1,21
+Soul Food,04H,1,21
+Soul Food,05F,1,21
+Soul Food,04M,1,21
+Australian,10F,15,1
+Australian,10B,6,2
+Australian,06C,6,2
+Australian,08A,5,4
+Australian,04N,5,4
+Australian,06D,5,4
+Australian,02G,4,7
+Australian,10G,3,8
+Australian,06A,3,8
+Australian,06F,2,10
+Australian,09B,2,10
+Australian,04A,2,10
+Australian,10H,2,10
+Australian,09C,1,14
+Australian,10I,1,14
+Australian,02H,1,14
+Australian,04L,1,14
+Coffee/Tea,10F,963,1
+Coffee/Tea,06D,464,2
+Coffee/Tea,08A,312,3
+Coffee/Tea,10B,292,4
+Coffee/Tea,06C,244,5
+Coffee/Tea,04L,178,6
+Coffee/Tea,02G,171,7
+Coffee/Tea,04N,169,8
+Coffee/Tea,04A,138,9
+Coffee/Tea,10G,108,10
+Coffee/Tea,02B,95,11
+Coffee/Tea,08C,94,12
+Coffee/Tea,06F,83,13
+Coffee/Tea,10H,74,14
+Coffee/Tea,06A,69,15
+Coffee/Tea,06E,58,16
+Coffee/Tea,04H,55,17
+Coffee/Tea,05D,54,18
+Coffee/Tea,09C,48,19
+Coffee/Tea,10E,47,20
+Coffee/Tea,04J,39,21
+Coffee/Tea,09E,35,22
+Coffee/Tea,10D,29,23
+Coffee/Tea,10A,25,24
+Coffee/Tea,04M,24,25
+Coffee/Tea,,23,26
+Coffee/Tea,04K,22,27
+Coffee/Tea,08B,20,28
+Coffee/Tea,04O,18,29
+Coffee/Tea,03A,16,30
+Coffee/Tea,05H,14,31
+Coffee/Tea,28-06,12,32
+Coffee/Tea,28-05,11,33
+Coffee/Tea,06B,9,34
+Coffee/Tea,09B,7,35
+Coffee/Tea,10I,6,36
+Coffee/Tea,05E,5,37
+Coffee/Tea,04D,3,38
+Coffee/Tea,09A,3,38
+Coffee/Tea,02H,3,38
+Coffee/Tea,05C,2,41
+Coffee/Tea,10J,2,41
+Coffee/Tea,05A,2,41
+Coffee/Tea,05F,2,41
+Coffee/Tea,10C,2,41
+Coffee/Tea,04C,2,41
+Coffee/Tea,02D,1,47
+Coffee/Tea,02F,1,47
+Coffee/Tea,02I,1,47
+Coffee/Tea,03I,1,47
+Coffee/Tea,04E,1,47
+Coffee/Tea,05B,1,47
+Coffee/Tea,04F,1,47
+Coffee/Tea,02C,1,47
+Coffee/Tea,04P,1,47
+Coffee/Tea,03E,1,47
+Hamburgers,10F,302,1
+Hamburgers,06D,97,2
+Hamburgers,10B,89,3
+Hamburgers,08A,88,4
+Hamburgers,02G,58,5
+Hamburgers,06C,54,6
+Hamburgers,04N,51,7
+Hamburgers,04L,37,8
+Hamburgers,02B,27,9
+Hamburgers,10H,19,10
+Hamburgers,06E,18,11
+Hamburgers,06F,14,12
+Hamburgers,04M,12,13
+Hamburgers,06A,11,14
+Hamburgers,04H,11,14
+Hamburgers,04A,9,16
+Hamburgers,08C,9,16
+Hamburgers,10G,7,18
+Hamburgers,09C,6,19
+Hamburgers,10E,6,19
+Hamburgers,,5,21
+Hamburgers,06B,5,21
+Hamburgers,08B,5,21
+Hamburgers,10D,3,24
+Hamburgers,05A,3,24
+Hamburgers,09B,3,24
+Hamburgers,10A,3,24
+Hamburgers,05D,3,24
+Hamburgers,04D,2,29
+Hamburgers,10C,2,29
+Hamburgers,04K,2,29
+Hamburgers,10I,2,29
+Hamburgers,28-06,1,33
+Hamburgers,05E,1,33
+Hamburgers,03E,1,33
+Hamburgers,04J,1,33
+Hamburgers,02H,1,33
+Hamburgers,09E,1,33
+Hamburgers,09A,1,33
+Hamburgers,05H,1,33
+Indonesian,10F,2,1
+Indonesian,10B,2,1
+Indonesian,02B,2,1
+Indonesian,06A,2,1
+Indonesian,06D,1,5
+Indonesian,02G,1,5
+Indonesian,04L,1,5
+Indonesian,10G,1,5
+Indonesian,08A,1,5
+Indonesian,03A,1,5
+Indonesian,08C,1,5
+New French,10F,3,1
+New French,02B,1,2
+New French,10B,1,2
+New French,10H,1,2
+Portuguese,02B,5,1
+Portuguese,06D,3,2
+Portuguese,10H,2,3
+Portuguese,08A,2,3
+Portuguese,10F,2,3
+Portuguese,10B,2,3
+Portuguese,04N,2,3
+Portuguese,08C,1,8
+Portuguese,06E,1,8
+Portuguese,06C,1,8
+Portuguese,06A,1,8
+Portuguese,02H,1,8
+Portuguese,04H,1,8
+Portuguese,04L,1,8
+Portuguese,06F,1,8
+Sandwiches,10F,254,1
+Sandwiches,08A,103,2
+Sandwiches,06D,101,3
+Sandwiches,10B,86,4
+Sandwiches,02G,69,5
+Sandwiches,04L,65,6
+Sandwiches,06C,55,7
+Sandwiches,04N,39,8
+Sandwiches,02B,39,8
+Sandwiches,06A,28,10
+Sandwiches,04A,28,10
+Sandwiches,08C,25,12
+Sandwiches,09C,18,13
+Sandwiches,10E,18,13
+Sandwiches,06E,16,15
+Sandwiches,10H,16,15
+Sandwiches,04M,15,17
+Sandwiches,10G,15,17
+Sandwiches,06F,13,19
+Sandwiches,04H,13,19
+Sandwiches,05D,11,21
+Sandwiches,10D,8,22
+Sandwiches,09B,6,23
+Sandwiches,04J,6,23
+Sandwiches,09E,6,23
+Sandwiches,02C,6,23
+Sandwiches,10A,4,27
+Sandwiches,02H,4,27
+Sandwiches,06B,3,29
+Sandwiches,04K,3,29
+Sandwiches,10C,3,29
+Sandwiches,08B,3,29
+Sandwiches,04C,2,33
+Sandwiches,04E,2,33
+Sandwiches,,2,33
+Sandwiches,09A,2,33
+Sandwiches,04P,1,37
+Sandwiches,04D,1,37
+Sandwiches,28-05,1,37
+Sandwiches,05H,1,37
+Sandwiches,03I,1,37
+Sandwiches,10I,1,37
+Sandwiches,02F,1,37
+Sandwiches,28-06,1,37
+Sandwiches,04O,1,37
+Sandwiches,03A,1,37
+Steakhouse,10F,33,1
+Steakhouse,08A,28,2
+Steakhouse,10B,21,3
+Steakhouse,04N,15,4
+Steakhouse,06D,15,4
+Steakhouse,04L,12,6
+Steakhouse,02G,11,7
+Steakhouse,06C,11,7
+Steakhouse,02B,10,9
+Steakhouse,06A,6,10
+Steakhouse,09C,5,11
+Steakhouse,06E,4,12
+Steakhouse,05D,3,13
+Steakhouse,04M,3,13
+Steakhouse,04H,3,13
+Steakhouse,08C,3,13
+Steakhouse,10G,3,13
+Steakhouse,10H,3,13
+Steakhouse,,2,19
+Steakhouse,06F,2,19
+Steakhouse,04A,2,19
+Steakhouse,02A,1,22
+Steakhouse,10D,1,22
+Steakhouse,09B,1,22
+Steakhouse,02H,1,22
+Steakhouse,09A,1,22
+Steakhouse,10E,1,22
+Steakhouse,04C,1,22
+Steakhouse,06B,1,22
+Vegetarian,10F,36,1
+Vegetarian,08A,15,2
+Vegetarian,06C,13,3
+Vegetarian,04L,12,4
+Vegetarian,10B,11,5
+Vegetarian,06D,10,6
+Vegetarian,02B,9,7
+Vegetarian,10H,8,8
+Vegetarian,04N,7,9
+Vegetarian,09C,5,10
+Vegetarian,08C,4,11
+Vegetarian,06A,4,11
+Vegetarian,06E,4,11
+Vegetarian,10G,3,14
+Vegetarian,10D,3,14
+Vegetarian,06F,3,14
+Vegetarian,04K,3,14
+Vegetarian,04H,3,14
+Vegetarian,10E,3,14
+Vegetarian,06B,2,20
+Vegetarian,05D,2,20
+Vegetarian,04A,2,20
+Vegetarian,09E,2,20
+Vegetarian,02G,2,20
+Vegetarian,04J,1,25
+Vegetarian,04I,1,25
+Vegetarian,02I,1,25
+Vegetarian,09B,1,25
+Vegetarian,02C,1,25
+Vegetarian,04M,1,25
+Vegetarian,03A,1,25
+Vegetarian,02H,1,25
+Vegetarian,10C,1,25
+Vegetarian,05E,1,25
+Vegetarian,03I,1,25
+Bangladeshi,10F,24,1
+Bangladeshi,08A,20,2
+Bangladeshi,02B,16,3
+Bangladeshi,06C,14,4
+Bangladeshi,04L,11,5
+Bangladeshi,10B,9,6
+Bangladeshi,04N,7,7
+Bangladeshi,02G,7,7
+Bangladeshi,04M,7,7
+Bangladeshi,06A,6,10
+Bangladeshi,09C,6,10
+Bangladeshi,10H,5,12
+Bangladeshi,02H,5,12
+Bangladeshi,04A,5,12
+Bangladeshi,06D,4,15
+Bangladeshi,04H,4,15
+Bangladeshi,10G,4,15
+Bangladeshi,04K,3,18
+Bangladeshi,06E,3,18
+Bangladeshi,09B,3,18
+Bangladeshi,04D,2,21
+Bangladeshi,06F,2,21
+Bangladeshi,10A,1,23
+Bangladeshi,04J,1,23
+Bangladeshi,04C,1,23
+Bangladeshi,10E,1,23
+Bangladeshi,08C,1,23
+Bangladeshi,28-06,1,23
+Bangladeshi,03A,1,23
+Bangladeshi,04F,1,23
+Bangladeshi,06B,1,23
+Bangladeshi,05H,1,23
+Bangladeshi,04O,1,23
+Californian,02G,1,1
+Californian,10F,1,1
+Chimichurri,02G,1,1
+Chimichurri,10F,1,1
+Continental,10F,14,1
+Continental,02G,10,2
+Continental,10B,10,2
+Continental,06D,10,2
+Continental,06A,5,5
+Continental,04A,3,6
+Continental,02H,3,6
+Continental,04H,3,6
+Continental,06E,3,6
+Continental,08A,3,6
+Continental,06C,3,6
+Continental,02B,2,12
+Continental,09C,2,12
+Continental,10G,2,12
+Continental,10I,2,12
+Continental,04L,2,12
+Continental,04N,1,17
+Continental,04J,1,17
+Continental,10H,1,17
+Continental,04M,1,17
+Continental,06F,1,17
+Continental,09B,1,17
+Creole/Cajun,06D,4,1
+Creole/Cajun,08A,3,2
+Creole/Cajun,10F,3,2
+Creole/Cajun,04L,2,4
+Creole/Cajun,02B,2,4
+Creole/Cajun,09B,2,4
+Creole/Cajun,04N,2,4
+Creole/Cajun,06C,2,4
+Creole/Cajun,04A,1,9
+Creole/Cajun,10E,1,9
+Creole/Cajun,10B,1,9
+Creole/Cajun,05D,1,9
+Creole/Cajun,04H,1,9
+Creole/Cajun,10G,1,9
+New American,10F,12,1
+New American,06D,6,2
+New American,08A,5,3
+New American,04N,4,4
+New American,02G,4,4
+New American,06A,3,6
+New American,09C,3,6
+New American,10A,2,8
+New American,06C,2,8
+New American,02B,2,8
+New American,09E,1,11
+New American,06F,1,11
+New American,02H,1,11
+New American,05D,1,11
+New American,04H,1,11
+New American,04K,1,11
+New American,08C,1,11
+New American,10B,1,11
+Scandinavian,10F,3,1
+Scandinavian,06C,3,1
+Scandinavian,04N,2,3
+Scandinavian,08A,2,3
+Scandinavian,02H,1,5
+Scandinavian,10B,1,5
+Scandinavian,10H,1,5
+Scandinavian,10I,1,5
+Scandinavian,08B,1,5
+Southwestern,09B,1,1
+Southwestern,08A,1,1
+Southwestern,04N,1,1
+Southwestern,04A,1,1
+Southwestern,10F,1,1
+Southwestern,02G,1,1
+Chinese/Cuban,10F,7,1
+Chinese/Cuban,08A,4,2
+Chinese/Cuban,06C,4,2
+Chinese/Cuban,02G,4,2
+Chinese/Cuban,02B,2,5
+Chinese/Cuban,06D,2,5
+Chinese/Cuban,04N,2,5
+Chinese/Cuban,04K,1,8
+Chinese/Cuban,04M,1,8
+Chinese/Cuban,10B,1,8
+Chinese/Cuban,10I,1,8
+Chinese/Cuban,09B,1,8
+Chinese/Cuban,09A,1,8
+Chinese/Cuban,06B,1,8
+Chinese/Cuban,10H,1,8
+Chinese/Cuban,10G,1,8
+Haute Cuisine,10B,1,1
+Haute Cuisine,06C,1,1
+Jewish/Kosher,10F,150,1
+Jewish/Kosher,08A,81,2
+Jewish/Kosher,06C,64,3
+Jewish/Kosher,06D,60,4
+Jewish/Kosher,10B,51,5
+Jewish/Kosher,02B,49,6
+Jewish/Kosher,04L,47,7
+Jewish/Kosher,02G,42,8
+Jewish/Kosher,04N,35,9
+Jewish/Kosher,09C,24,10
+Jewish/Kosher,04A,19,11
+Jewish/Kosher,08C,18,12
+Jewish/Kosher,06A,16,13
+Jewish/Kosher,10H,15,14
+Jewish/Kosher,06E,14,15
+Jewish/Kosher,10G,13,16
+Jewish/Kosher,06F,11,17
+Jewish/Kosher,09B,11,17
+Jewish/Kosher,04M,9,19
+Jewish/Kosher,04H,7,20
+Jewish/Kosher,05D,7,20
+Jewish/Kosher,02H,7,20
+Jewish/Kosher,10D,6,23
+Jewish/Kosher,10C,6,23
+Jewish/Kosher,04J,6,23
+Jewish/Kosher,06B,5,26
+Jewish/Kosher,08B,5,26
+Jewish/Kosher,09E,4,28
+Jewish/Kosher,10A,4,28
+Jewish/Kosher,04K,4,28
+Jewish/Kosher,04C,3,31
+Jewish/Kosher,28-05,3,31
+Jewish/Kosher,09A,2,33
+Jewish/Kosher,10E,2,33
+Jewish/Kosher,,2,33
+Jewish/Kosher,05H,1,36
+Jewish/Kosher,04E,1,36
+Jewish/Kosher,06G,1,36
+Jewish/Kosher,02A,1,36
+Jewish/Kosher,10I,1,36
+Jewish/Kosher,10J,1,36
+Mediterranean,10F,138,1
+Mediterranean,08A,81,2
+Mediterranean,06D,54,3
+Mediterranean,10B,53,4
+Mediterranean,04L,50,5
+Mediterranean,06C,38,6
+Mediterranean,02G,36,7
+Mediterranean,04N,34,8
+Mediterranean,02B,32,9
+Mediterranean,04A,21,10
+Mediterranean,06A,19,11
+Mediterranean,10G,18,12
+Mediterranean,08C,17,13
+Mediterranean,06F,15,14
+Mediterranean,02H,13,15
+Mediterranean,06E,13,15
+Mediterranean,09C,13,15
+Mediterranean,10H,10,18
+Mediterranean,04M,9,19
+Mediterranean,10E,7,20
+Mediterranean,04H,7,20
+Mediterranean,04C,6,22
+Mediterranean,04K,6,22
+Mediterranean,09E,5,24
+Mediterranean,06B,5,24
+Mediterranean,10A,5,24
+Mediterranean,09B,4,27
+Mediterranean,05D,3,28
+Mediterranean,09A,3,28
+Mediterranean,02I,3,28
+Mediterranean,10D,3,28
+Mediterranean,05H,2,32
+Mediterranean,10I,2,32
+Mediterranean,05F,2,32
+Mediterranean,02A,2,32
+Mediterranean,04J,2,32
+Mediterranean,02C,1,37
+Mediterranean,04E,1,37
+Mediterranean,05C,1,37
+Mediterranean,08B,1,37
+Mediterranean,10C,1,37
+Mediterranean,06G,1,37
+Mediterranean,10J,1,37
+Mediterranean,28-06,1,37
+Mediterranean,28-05,1,37
+Mediterranean,,1,37
+Latin American,10F,375,1
+Latin American,08A,227,2
+Latin American,10B,154,3
+Latin American,02B,154,3
+Latin American,06C,144,5
+Latin American,02G,127,6
+Latin American,06D,117,7
+Latin American,04L,114,8
+Latin American,04N,99,9
+Latin American,09C,66,10
+Latin American,04M,64,11
+Latin American,08C,54,12
+Latin American,04A,51,13
+Latin American,04H,47,14
+Latin American,10G,44,15
+Latin American,06A,41,16
+Latin American,06E,41,16
+Latin American,06F,34,18
+Latin American,09B,33,19
+Latin American,04K,33,19
+Latin American,10H,31,21
+Latin American,02H,28,22
+Latin American,05D,26,23
+Latin American,10E,20,24
+Latin American,04J,19,25
+Latin American,09E,17,26
+Latin American,10D,14,27
+Latin American,03B,11,28
+Latin American,10A,9,29
+Latin American,06B,8,30
+Latin American,03A,6,31
+Latin American,08B,6,31
+Latin American,,5,33
+Latin American,04C,5,33
+Latin American,09A,5,33
+Latin American,05H,5,33
+Latin American,28-06,4,37
+Latin American,05F,4,37
+Latin American,10I,3,39
+Latin American,03C,2,40
+Latin American,05A,1,41
+Latin American,04O,1,41
+Latin American,10C,1,41
+Latin American,28-05,1,41
+Latin American,02C,1,41
+Latin American,05B,1,41
+Latin American,10J,1,41
+Middle Eastern,10F,87,1
+Middle Eastern,08A,52,2
+Middle Eastern,10B,38,3
+Middle Eastern,04L,31,4
+Middle Eastern,04A,28,5
+Middle Eastern,06D,27,6
+Middle Eastern,06C,23,7
+Middle Eastern,02B,23,7
+Middle Eastern,04N,19,9
+Middle Eastern,02G,18,10
+Middle Eastern,08C,13,11
+Middle Eastern,10G,10,12
+Middle Eastern,09C,9,13
+Middle Eastern,06E,9,13
+Middle Eastern,06A,9,13
+Middle Eastern,04M,8,16
+Middle Eastern,04H,6,17
+Middle Eastern,09B,6,17
+Middle Eastern,10H,5,19
+Middle Eastern,02H,4,20
+Middle Eastern,10E,4,20
+Middle Eastern,04J,4,20
+Middle Eastern,04K,4,20
+Middle Eastern,09E,4,20
+Middle Eastern,06F,4,20
+Middle Eastern,05D,4,20
+Middle Eastern,10A,2,27
+Middle Eastern,06B,2,27
+Middle Eastern,,2,27
+Middle Eastern,10J,2,27
+Middle Eastern,04C,2,27
+Middle Eastern,10D,2,27
+Middle Eastern,04O,1,33
+Middle Eastern,10I,1,33
+Middle Eastern,05B,1,33
+Middle Eastern,02A,1,33
+Bagels/Pretzels,10F,94,1
+Bagels/Pretzels,08A,42,2
+Bagels/Pretzels,06C,40,3
+Bagels/Pretzels,06D,38,4
+Bagels/Pretzels,10B,34,5
+Bagels/Pretzels,02G,30,6
+Bagels/Pretzels,04N,24,7
+Bagels/Pretzels,04L,24,7
+Bagels/Pretzels,09C,20,9
+Bagels/Pretzels,06A,11,10
+Bagels/Pretzels,06F,11,10
+Bagels/Pretzels,04A,10,12
+Bagels/Pretzels,04H,6,13
+Bagels/Pretzels,04M,5,14
+Bagels/Pretzels,06E,5,14
+Bagels/Pretzels,08C,4,16
+Bagels/Pretzels,02B,3,17
+Bagels/Pretzels,10D,3,17
+Bagels/Pretzels,04K,3,17
+Bagels/Pretzels,05D,2,20
+Bagels/Pretzels,05H,2,20
+Bagels/Pretzels,09A,2,20
+Bagels/Pretzels,06B,2,20
+Bagels/Pretzels,10H,2,20
+Bagels/Pretzels,10G,2,20
+Bagels/Pretzels,04C,1,26
+Bagels/Pretzels,,1,26
+Bagels/Pretzels,10I,1,26
+Bagels/Pretzels,05F,1,26
+Bagels/Pretzels,28-05,1,26
+Bagels/Pretzels,02H,1,26
+Bagels/Pretzels,03A,1,26
+Bagels/Pretzels,03I,1,26
+Bagels/Pretzels,04E,1,26
+Bagels/Pretzels,04O,1,26
+Bagels/Pretzels,04J,1,26
+Bagels/Pretzels,08B,1,26
+Bagels/Pretzels,10E,1,26
+Frozen Desserts,10F,168,1
+Frozen Desserts,08A,64,2
+Frozen Desserts,06C,51,3
+Frozen Desserts,04L,51,3
+Frozen Desserts,04A,49,5
+Frozen Desserts,06D,38,6
+Frozen Desserts,10B,34,7
+Frozen Desserts,06E,25,8
+Frozen Desserts,05D,20,9
+Frozen Desserts,08C,19,10
+Frozen Desserts,06A,18,11
+Frozen Desserts,10G,18,11
+Frozen Desserts,04N,16,13
+Frozen Desserts,06F,13,14
+Frozen Desserts,10E,10,15
+Frozen Desserts,04H,9,16
+Frozen Desserts,02G,6,17
+Frozen Desserts,04J,6,17
+Frozen Desserts,10H,6,17
+Frozen Desserts,10A,6,17
+Frozen Desserts,09E,6,17
+Frozen Desserts,02B,4,22
+Frozen Desserts,10D,4,22
+Frozen Desserts,08B,3,24
+Frozen Desserts,04M,3,24
+Frozen Desserts,09C,3,24
+Frozen Desserts,28-06,3,24
+Frozen Desserts,,3,24
+Frozen Desserts,04O,2,29
+Frozen Desserts,10I,2,29
+Frozen Desserts,04K,2,29
+Frozen Desserts,10J,2,29
+Frozen Desserts,09A,1,33
+Frozen Desserts,02H,1,33
+Frozen Desserts,03I,1,33
+Frozen Desserts,09B,1,33
+Frozen Desserts,06B,1,33
+Frozen Desserts,04C,1,33
+Frozen Desserts,02I,1,33
+Frozen Desserts,05H,1,33
+Frozen Desserts,03A,1,33
+Southeast Asian,10F,40,1
+Southeast Asian,08A,30,2
+Southeast Asian,06D,29,3
+Southeast Asian,02G,23,4
+Southeast Asian,06C,20,5
+Southeast Asian,04L,17,6
+Southeast Asian,02B,15,7
+Southeast Asian,10B,14,8
+Southeast Asian,04M,10,9
+Southeast Asian,09C,9,10
+Southeast Asian,06E,8,11
+Southeast Asian,09B,8,11
+Southeast Asian,04N,7,13
+Southeast Asian,04K,6,14
+Southeast Asian,10G,5,15
+Southeast Asian,08C,5,15
+Southeast Asian,02H,5,15
+Southeast Asian,04C,4,18
+Southeast Asian,03A,3,19
+Southeast Asian,04A,3,19
+Southeast Asian,06F,3,19
+Southeast Asian,10H,2,22
+Southeast Asian,08B,2,22
+Southeast Asian,09A,2,22
+Southeast Asian,10E,1,25
+Southeast Asian,05D,1,25
+Southeast Asian,02I,1,25
+Southeast Asian,02A,1,25
+Southeast Asian,06B,1,25
+Southeast Asian,04H,1,25
+Southeast Asian,28-06,1,25
+Southeast Asian,06A,1,25
+Chinese/Japanese,08A,15,1
+Chinese/Japanese,10F,15,1
+Chinese/Japanese,04L,14,3
+Chinese/Japanese,02G,9,4
+Chinese/Japanese,10B,8,5
+Chinese/Japanese,02B,8,5
+Chinese/Japanese,09C,6,7
+Chinese/Japanese,06F,5,8
+Chinese/Japanese,06C,5,8
+Chinese/Japanese,06D,5,8
+Chinese/Japanese,04K,3,11
+Chinese/Japanese,04N,3,11
+Chinese/Japanese,09B,3,11
+Chinese/Japanese,10G,2,14
+Chinese/Japanese,28-06,2,14
+Chinese/Japanese,04A,2,14
+Chinese/Japanese,04M,2,14
+Chinese/Japanese,05A,1,18
+Chinese/Japanese,02H,1,18
+Chinese/Japanese,04H,1,18
+Chinese/Japanese,06B,1,18
+Chinese/Japanese,10I,1,18
+Chinese/Japanese,09E,1,18
+Chinese/Japanese,04F,1,18
+Chinese/Japanese,08C,1,18
+Chinese/Japanese,04J,1,18
+Chinese/Japanese,10E,1,18
+Chinese/Japanese,06A,1,18
+Chinese/Japanese,05H,1,18
+Chinese/Japanese,09A,1,18
+Chinese/Japanese,10H,1,18
+Eastern European,10F,42,1
+Eastern European,08A,24,2
+Eastern European,04L,19,3
+Eastern European,10B,16,4
+Eastern European,06C,15,5
+Eastern European,06D,13,6
+Eastern European,02B,9,7
+Eastern European,06A,8,8
+Eastern European,04A,7,9
+Eastern European,04N,7,9
+Eastern European,10G,6,11
+Eastern European,02G,6,11
+Eastern European,06F,5,13
+Eastern European,08C,4,14
+Eastern European,04H,3,15
+Eastern European,04M,3,15
+Eastern European,09C,3,15
+Eastern European,02H,2,18
+Eastern European,10H,2,18
+Eastern European,06B,2,18
+Eastern European,05D,2,18
+Eastern European,,2,18
+Eastern European,04K,2,18
+Eastern European,10E,2,18
+Eastern European,09B,2,18
+Eastern European,09D,1,26
+Eastern European,05F,1,26
+Eastern European,04E,1,26
+Eastern European,04C,1,26
+Eastern European,09E,1,26
+Eastern European,10A,1,26
+Eastern European,04O,1,26
+Eastern European,06G,1,26
+Eastern European,10J,1,26
+Hotdogs/Pretzels,10F,9,1
+Hotdogs/Pretzels,,7,2
+Hotdogs/Pretzels,04L,4,3
+Hotdogs/Pretzels,08A,4,3
+Hotdogs/Pretzels,06D,4,3
+Hotdogs/Pretzels,06A,4,3
+Hotdogs/Pretzels,06E,2,7
+Hotdogs/Pretzels,06C,2,7
+Hotdogs/Pretzels,04A,2,7
+Hotdogs/Pretzels,10B,2,7
+Hotdogs/Pretzels,09A,1,11
+Hotdogs/Pretzels,10H,1,11
+Hotdogs/Pretzels,05D,1,11
+Hotdogs/Pretzels,02B,1,11
+Pancakes/Waffles,10F,19,1
+Pancakes/Waffles,08A,10,2
+Pancakes/Waffles,04N,7,3
+Pancakes/Waffles,10B,7,3
+Pancakes/Waffles,04L,6,5
+Pancakes/Waffles,06D,6,5
+Pancakes/Waffles,04A,5,7
+Pancakes/Waffles,02G,3,8
+Pancakes/Waffles,09C,3,8
+Pancakes/Waffles,06E,3,8
+Pancakes/Waffles,10H,3,8
+Pancakes/Waffles,06C,3,8
+Pancakes/Waffles,08C,3,8
+Pancakes/Waffles,04H,2,14
+Pancakes/Waffles,04K,1,15
+Pancakes/Waffles,05H,1,15
+Pancakes/Waffles,06A,1,15
+Pancakes/Waffles,06F,1,15
+Pancakes/Waffles,04J,1,15
+Pancakes/Waffles,10G,1,15
+Pancakes/Waffles,02B,1,15
+Pancakes/Waffles,10I,1,15
+Pancakes/Waffles,05D,1,15
+Bottled Beverages,10F,61,1
+Bottled Beverages,06D,44,2
+Bottled Beverages,08A,26,3
+Bottled Beverages,04A,22,4
+Bottled Beverages,10B,15,5
+Bottled Beverages,04H,13,6
+Bottled Beverages,04L,12,7
+Bottled Beverages,06C,12,7
+Bottled Beverages,08C,11,9
+Bottled Beverages,10G,11,9
+Bottled Beverages,05D,10,11
+Bottled Beverages,04N,10,11
+Bottled Beverages,10H,8,13
+Bottled Beverages,09E,5,14
+Bottled Beverages,04M,4,15
+Bottled Beverages,10A,4,15
+Bottled Beverages,06F,3,17
+Bottled Beverages,06E,3,17
+Bottled Beverages,04J,2,19
+Bottled Beverages,,2,19
+Bottled Beverages,08B,2,19
+Bottled Beverages,04K,2,19
+Bottled Beverages,10D,2,19
+Bottled Beverages,04C,1,24
+Bottled Beverages,04E,1,24
+Bottled Beverages,02G,1,24
+Bottled Beverages,09C,1,24
+Bottled Beverages,28-06,1,24
+Bottled Beverages,04O,1,24
+Fruits/Vegetables,10F,3,1
+Fruits/Vegetables,02G,2,2
+Fruits/Vegetables,04A,1,3
+Fruits/Vegetables,06A,1,3
+Fruits/Vegetables,10J,1,3
+Fruits/Vegetables,06B,1,3
+Fruits/Vegetables,10B,1,3
+Asian/Asian Fusion,10F,162,1
+Asian/Asian Fusion,08A,105,2
+Asian/Asian Fusion,06D,75,3
+Asian/Asian Fusion,04L,71,4
+Asian/Asian Fusion,10B,67,5
+Asian/Asian Fusion,06C,66,6
+Asian/Asian Fusion,02B,65,7
+Asian/Asian Fusion,02G,61,8
+Asian/Asian Fusion,06A,42,9
+Asian/Asian Fusion,04N,30,10
+Asian/Asian Fusion,06E,29,11
+Asian/Asian Fusion,04A,27,12
+Asian/Asian Fusion,04M,25,13
+Asian/Asian Fusion,09C,25,13
+Asian/Asian Fusion,10G,22,15
+Asian/Asian Fusion,09B,22,15
+Asian/Asian Fusion,06F,20,17
+Asian/Asian Fusion,10H,19,18
+Asian/Asian Fusion,04K,15,19
+Asian/Asian Fusion,08C,14,20
+Asian/Asian Fusion,04H,14,20
+Asian/Asian Fusion,02H,11,22
+Asian/Asian Fusion,04C,10,23
+Asian/Asian Fusion,05D,10,23
+Asian/Asian Fusion,06B,8,25
+Asian/Asian Fusion,10E,8,25
+Asian/Asian Fusion,10D,6,27
+Asian/Asian Fusion,03A,4,28
+Asian/Asian Fusion,08B,4,28
+Asian/Asian Fusion,10I,3,30
+Asian/Asian Fusion,10C,3,30
+Asian/Asian Fusion,09E,3,30
+Asian/Asian Fusion,04J,3,30
+Asian/Asian Fusion,10A,3,30
+Asian/Asian Fusion,09A,2,35
+Asian/Asian Fusion,28-05,2,35
+Asian/Asian Fusion,,2,35
+Asian/Asian Fusion,04D,2,35
+Asian/Asian Fusion,02A,1,39
+Asian/Asian Fusion,06G,1,39
+Asian/Asian Fusion,05B,1,39
+Asian/Asian Fusion,02C,1,39
+Asian/Asian Fusion,02I,1,39
+Asian/Asian Fusion,28-06,1,39
+Asian/Asian Fusion,02F,1,39
+Nuts/Confectionary,10B,2,1
+Nuts/Confectionary,10F,2,1
+Nuts/Confectionary,04A,2,1
+Nuts/Confectionary,,2,1
+Nuts/Confectionary,06D,1,5
+Nuts/Confectionary,08A,1,5
+Nuts/Confectionary,04L,1,5
+Soups/Salads/Sandwiches,10F,37,1
+Soups/Salads/Sandwiches,02G,14,2
+Soups/Salads/Sandwiches,06D,14,2
+Soups/Salads/Sandwiches,08A,12,4
+Soups/Salads/Sandwiches,10B,8,5
+Soups/Salads/Sandwiches,06C,7,6
+Soups/Salads/Sandwiches,04N,6,7
+Soups/Salads/Sandwiches,04L,5,8
+Soups/Salads/Sandwiches,10A,4,9
+Soups/Salads/Sandwiches,06F,3,10
+Soups/Salads/Sandwiches,02B,3,10
+Soups/Salads/Sandwiches,06A,3,10
+Soups/Salads/Sandwiches,06E,2,13
+Soups/Salads/Sandwiches,09C,2,13
+Soups/Salads/Sandwiches,04M,2,13
+Soups/Salads/Sandwiches,10E,1,16
+Soups/Salads/Sandwiches,05D,1,16
+Soups/Salads/Sandwiches,10H,1,16
+Soups/Salads/Sandwiches,02C,1,16
+Soups/Salads/Sandwiches,,1,16
+Soups/Salads/Sandwiches,08B,1,16
+Soups/Salads/Sandwiches,10C,1,16
+Soups/Salads/Sandwiches,09E,1,16
+Soups/Salads/Sandwiches,02H,1,16
+Soups/Salads/Sandwiches,04H,1,16
+Bakery Products/Desserts,10F,409,1
+Bakery Products/Desserts,08A,205,2
+Bakery Products/Desserts,06C,150,3
+Bakery Products/Desserts,10B,147,4
+Bakery Products/Desserts,04L,129,5
+Bakery Products/Desserts,06D,128,6
+Bakery Products/Desserts,02B,121,7
+Bakery Products/Desserts,02G,96,8
+Bakery Products/Desserts,04N,84,9
+Bakery Products/Desserts,04A,59,10
+Bakery Products/Desserts,08C,57,11
+Bakery Products/Desserts,06F,42,12
+Bakery Products/Desserts,06A,38,13
+Bakery Products/Desserts,04M,37,14
+Bakery Products/Desserts,04H,32,15
+Bakery Products/Desserts,10H,26,16
+Bakery Products/Desserts,10G,26,16
+Bakery Products/Desserts,09C,25,18
+Bakery Products/Desserts,05D,21,19
+Bakery Products/Desserts,06E,20,20
+Bakery Products/Desserts,10D,20,20
+Bakery Products/Desserts,04J,17,22
+Bakery Products/Desserts,10A,14,23
+Bakery Products/Desserts,10E,13,24
+Bakery Products/Desserts,04K,13,24
+Bakery Products/Desserts,04C,11,26
+Bakery Products/Desserts,05H,10,27
+Bakery Products/Desserts,06B,10,27
+Bakery Products/Desserts,28-05,9,29
+Bakery Products/Desserts,09E,9,29
+Bakery Products/Desserts,09A,9,29
+Bakery Products/Desserts,08B,8,32
+Bakery Products/Desserts,10I,6,33
+Bakery Products/Desserts,02H,6,33
+Bakery Products/Desserts,28-06,6,33
+Bakery Products/Desserts,,5,36
+Bakery Products/Desserts,09B,5,36
+Bakery Products/Desserts,03A,4,38
+Bakery Products/Desserts,04O,4,38
+Bakery Products/Desserts,10C,3,40
+Bakery Products/Desserts,02A,2,41
+Bakery Products/Desserts,10J,1,42
+Bakery Products/Desserts,05A,1,42
+Bakery Products/Desserts,02I,1,42
+Bakery Products/Desserts,04D,1,42
+Bakery Products/Desserts,18-11,1,42
+Bakery Products/Desserts,03E,1,42
+Bakery Products/Desserts,02F,1,42
+Not Listed/Not Applicable,10F,8,1
+Not Listed/Not Applicable,08A,4,2
+Not Listed/Not Applicable,06D,3,3
+Not Listed/Not Applicable,04K,3,3
+Not Listed/Not Applicable,04L,2,5
+Not Listed/Not Applicable,10G,2,5
+Not Listed/Not Applicable,06C,2,5
+Not Listed/Not Applicable,10B,2,5
+Not Listed/Not Applicable,06F,2,5
+Not Listed/Not Applicable,04A,2,5
+Not Listed/Not Applicable,10H,1,11
+Not Listed/Not Applicable,04N,1,11
+Not Listed/Not Applicable,05D,1,11
+Not Listed/Not Applicable,10D,1,11
+"Juice, Smoothies, Fruit Salads",10F,199,1
+"Juice, Smoothies, Fruit Salads",10B,105,2
+"Juice, Smoothies, Fruit Salads",06D,94,3
+"Juice, Smoothies, Fruit Salads",08A,72,4
+"Juice, Smoothies, Fruit Salads",04A,71,5
+"Juice, Smoothies, Fruit Salads",06C,60,6
+"Juice, Smoothies, Fruit Salads",04L,40,7
+"Juice, Smoothies, Fruit Salads",04N,40,7
+"Juice, Smoothies, Fruit Salads",08C,33,9
+"Juice, Smoothies, Fruit Salads",06E,33,9
+"Juice, Smoothies, Fruit Salads",04H,30,11
+"Juice, Smoothies, Fruit Salads",09C,29,12
+"Juice, Smoothies, Fruit Salads",02G,28,13
+"Juice, Smoothies, Fruit Salads",10G,27,14
+"Juice, Smoothies, Fruit Salads",06A,24,15
+"Juice, Smoothies, Fruit Salads",06F,20,16
+"Juice, Smoothies, Fruit Salads",02B,19,17
+"Juice, Smoothies, Fruit Salads",10E,19,17
+"Juice, Smoothies, Fruit Salads",04J,17,19
+"Juice, Smoothies, Fruit Salads",04M,14,20
+"Juice, Smoothies, Fruit Salads",09E,12,21
+"Juice, Smoothies, Fruit Salads",10A,11,22
+"Juice, Smoothies, Fruit Salads",05D,11,22
+"Juice, Smoothies, Fruit Salads",10H,10,24
+"Juice, Smoothies, Fruit Salads",10D,8,25
+"Juice, Smoothies, Fruit Salads",,7,26
+"Juice, Smoothies, Fruit Salads",03I,4,27
+"Juice, Smoothies, Fruit Salads",05H,4,27
+"Juice, Smoothies, Fruit Salads",03A,4,27
+"Juice, Smoothies, Fruit Salads",09B,3,30
+"Juice, Smoothies, Fruit Salads",04K,3,30
+"Juice, Smoothies, Fruit Salads",08B,3,30
+"Juice, Smoothies, Fruit Salads",02H,3,30
+"Juice, Smoothies, Fruit Salads",28-05,3,30
+"Juice, Smoothies, Fruit Salads",04E,2,35
+"Juice, Smoothies, Fruit Salads",04C,2,35
+"Juice, Smoothies, Fruit Salads",04O,2,35
+"Juice, Smoothies, Fruit Salads",04P,2,35
+"Juice, Smoothies, Fruit Salads",04D,2,35
+"Juice, Smoothies, Fruit Salads",06B,2,35
+"Juice, Smoothies, Fruit Salads",05E,2,35
+"Juice, Smoothies, Fruit Salads",02I,1,42
+"Juice, Smoothies, Fruit Salads",10C,1,42
+"Juice, Smoothies, Fruit Salads",05C,1,42
+"Juice, Smoothies, Fruit Salads",28-06,1,42
+Sandwiches/Salads/Mixed Buffet,10F,70,1
+Sandwiches/Salads/Mixed Buffet,10B,37,2
+Sandwiches/Salads/Mixed Buffet,06D,28,3
+Sandwiches/Salads/Mixed Buffet,08A,27,4
+Sandwiches/Salads/Mixed Buffet,02G,21,5
+Sandwiches/Salads/Mixed Buffet,04L,16,6
+Sandwiches/Salads/Mixed Buffet,02B,16,6
+Sandwiches/Salads/Mixed Buffet,06C,15,8
+Sandwiches/Salads/Mixed Buffet,04N,14,9
+Sandwiches/Salads/Mixed Buffet,06E,9,10
+Sandwiches/Salads/Mixed Buffet,09C,6,11
+Sandwiches/Salads/Mixed Buffet,08C,6,11
+Sandwiches/Salads/Mixed Buffet,10A,5,13
+Sandwiches/Salads/Mixed Buffet,04H,5,13
+Sandwiches/Salads/Mixed Buffet,06F,5,13
+Sandwiches/Salads/Mixed Buffet,04A,4,16
+Sandwiches/Salads/Mixed Buffet,10G,4,16
+Sandwiches/Salads/Mixed Buffet,10H,4,16
+Sandwiches/Salads/Mixed Buffet,09B,3,19
+Sandwiches/Salads/Mixed Buffet,06A,3,19
+Sandwiches/Salads/Mixed Buffet,10D,3,19
+Sandwiches/Salads/Mixed Buffet,03A,3,19
+Sandwiches/Salads/Mixed Buffet,04M,2,23
+Sandwiches/Salads/Mixed Buffet,09E,2,23
+Sandwiches/Salads/Mixed Buffet,02C,2,23
+Sandwiches/Salads/Mixed Buffet,05D,2,23
+Sandwiches/Salads/Mixed Buffet,,2,23
+Sandwiches/Salads/Mixed Buffet,10C,2,23
+Sandwiches/Salads/Mixed Buffet,04O,1,29
+Sandwiches/Salads/Mixed Buffet,10E,1,29
+Sandwiches/Salads/Mixed Buffet,09A,1,29
+Sandwiches/Salads/Mixed Buffet,04C,1,29
+Sandwiches/Salads/Mixed Buffet,02H,1,29
+Sandwiches/Salads/Mixed Buffet,02I,1,29
+Sandwiches/Salads/Mixed Buffet,28-05,1,29
+Sandwiches/Salads/Mixed Buffet,04K,1,29

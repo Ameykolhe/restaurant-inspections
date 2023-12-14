@@ -3,12 +3,12 @@
 ### Why?
 
 Open portal that can foster collaboration between inspection officers, restaurant owners, regulators to improve diner’s
-experience and ultimately the protect public health.
+experience and ultimately protect the public health.
 
 ### Objectives
 
 - Understand how restaurant violation results have changed over the years and across seasons.
-- Violation codes and their relationship with factors like cuisine type, borough, season.
+- Violation codes and their relationship with factors like cuisine type, borough, seasons.
 - Discover patterns across a restaurant chains.
 
 ### Dataset

@@ -1,0 +1,26 @@
+violation_code,boro,count,rank
+02B,Bronx,384,4
+04L,Staten Island,140,4
+04L,Brooklyn,942,4
+04L,Bronx,366,5
+06C,Staten Island,126,5
+06C,Queens,967,5
+06C,Manhattan,1289,5
+06D,Staten Island,240,2
+06D,Brooklyn,1108,3
+06D,Manhattan,1873,3
+06D,Queens,1008,4
+08A,Bronx,590,2
+08A,Brooklyn,1559,2
+08A,Queens,1461,2
+08A,Manhattan,2153,2
+08A,Staten Island,209,3
+10B,Bronx,412,3
+10B,Queens,1053,3
+10B,Brooklyn,942,4
+10B,Manhattan,1508,4
+10F,Staten Island,549,1
+10F,Bronx,1158,1
+10F,Brooklyn,2986,1
+10F,Queens,2635,1
+10F,Manhattan,4398,1
